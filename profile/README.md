@@ -1,4 +1,8 @@
 # ⚡ IEEE Student Branch – EMSI Marrakesh
+<div align="center">
+  <img src="" alt="IEEE S.B EMSI MARRAKESH" width="180" height="180">
+  <h1>IEEE S.B EMSI MARRAKESH</h1>
+</div>
 
 Welcome to the official GitHub organization of the **IEEE Student Branch at EMSI Marrakesh**!  
 We’re a community of passionate **students, engineers, and innovators** exploring the fields of technology, science, and engineering through collaboration, creativity, and open-source projects.
@@ -44,14 +48,6 @@ Join us, learn, build, and make an impact.
 📧 Contact us: [ieee.emsi.marrakesh@gmail.com](mailto:ieee.emsi.marrakesh@gmail.com)  
 📸 Follow us on Instagram: [@ieee.emsi.marrakesh](https://instagram.com/ieee.emsi.marrakesh)  
 🌐 Learn more about IEEE: [https://www.ieee.org](https://www.ieee.org)
-
----
-
-## 🛠️ Tech Stack (commonly used)
-- Python, JavaScript, C/C++  
-- React, Node.js, Flask  
-- Arduino, Raspberry Pi, IoT Tools  
-- Git & GitHub (of course 😉)
 
 ---
 
