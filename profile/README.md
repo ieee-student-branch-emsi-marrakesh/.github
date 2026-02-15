@@ -46,7 +46,7 @@ Whether you’re a **student, mentor, or enthusiast**, you’re welcome here!
 Join us, learn, build, and make an impact.
 
 📧 Contact us: [studentbranchiee@gmail.com](mailto:studentbranchiee@gmail.com)  
-📸 Follow us on Instagram: [@ieee.emsi.marrakesh](https://instagram.com/ieee.emsi.marrakesh)  
+📸 Follow us on Instagram: [@ieee.emsi.marrakech](https://instagram.com/ieee.emsi.marrakech)  
 🌐 Learn more about IEEE: [https://www.ieee.org](https://www.ieee.org)
 
 ---
