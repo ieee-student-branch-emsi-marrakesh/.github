@@ -45,7 +45,7 @@ This GitHub organization hosts repositories related to:
 Whether you’re a **student, mentor, or enthusiast**, you’re welcome here!  
 Join us, learn, build, and make an impact.
 
-📧 Contact us: [ieee.emsi.marrakesh@gmail.com](mailto:ieee.emsi.marrakesh@gmail.com)  
+📧 Contact us: [studentbranchiee@gmail.com](mailto:studentbranchiee@gmail.com)  
 📸 Follow us on Instagram: [@ieee.emsi.marrakesh](https://instagram.com/ieee.emsi.marrakesh)  
 🌐 Learn more about IEEE: [https://www.ieee.org](https://www.ieee.org)
 
