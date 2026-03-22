@@ -36,9 +36,9 @@ We welcome **students, mentors, and tech enthusiasts** to join and contribute.
 
 📧 Contact us: [studentbranchiee@gmail.com](mailto:studentbranchiee@gmail.com)  
 📸 Follow us on Instagram: [@ieee.emsi.marrakech](https://instagram.com/ieee.emsi.marrakech)  
-💼 Connect on LinkedIn: [in/ieeestudentbranchemsimarrakech/](https://www.linkedin.com/in/ieeestudentbranchemsimarrakech/)  
-🌐 Visit our website: [ieee-sb-emsi-marrakesh.vercel.app)](https://ieee-sb-emsi-marrakesh.vercel.app/)  
-🌍 Learn more about IEEE: [https://www.ieee.org](https://www.ieee.org)  
+💼 Connect on LinkedIn: [in/ieeestudentbranchemsimarrakech](https://www.linkedin.com/in/ieeestudentbranchemsimarrakech/)  
+🌐 Visit our website: [ieee-sb-emsi-marrakesh.vercel.app](https://ieee-sb-emsi-marrakesh.vercel.app/)  
+🌍 Learn more about IEEE: [ieee.org](https://www.ieee.org)  
 
 ---
 
