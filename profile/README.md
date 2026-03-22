@@ -1,61 +1,51 @@
 # ⚡ IEEE Student Branch – EMSI Marrakesh
+
 <div align="center">
   <img src="logo.jpg" alt="IEEE S.B EMSI MARRAKESH" width="200" height="200">
   <h1>IEEE S.B EMSI MARRAKESH</h1>
 </div>
 
-Welcome to the official GitHub organization of the **IEEE Student Branch at EMSI Marrakesh**!  
-We’re a community of passionate **students, engineers, and innovators** exploring the fields of technology, science, and engineering through collaboration, creativity, and open-source projects.
+## 👥 Who We Are
+
+We are the **IEEE Student Branch at EMSI Marrakesh**, a community of passionate **students, engineers, and innovators**.  
+We focus on **technology, collaboration, and hands-on learning** through real-world and open-source projects.
 
 ---
 
-## 🚀 Our Mission
+## 🚀 Mission
 
-To empower students at **EMSI Marrakesh** to:
-- Develop **technical and leadership skills** through real-world projects.
-- Promote **innovation, research, and collaboration** in technology.
-- Connect with the global **IEEE network** and the broader tech community.
-- Encourage **open-source culture** and community-driven development.
+- 🎯 Develop **technical and leadership skills**  
+- 💡 Promote **innovation and research**  
+- 🤝 Encourage **collaboration and open-source culture**  
+- 🌍 Connect with the global **IEEE network**  
 
 ---
 
 ## 💡 What We Do
 
-- 🧠 Organize tech workshops and hackathons  
-- 💻 Build and share open-source projects  
-- 🤝 Collaborate with other IEEE branches and clubs  
-- 🌍 Contribute to global IEEE initiatives  
-
----
-
-## 🧩 Projects
-
-This GitHub organization hosts repositories related to:
-- Club events and workshops
-- Technical projects (AI, IoT, Robotics, Web, etc.)
-- Educational content and resources
-- IEEE competitions and initiatives
-
-> Want to contribute? Check out our repositories and start collaborating!
+- 🧠 Organize **workshops and hackathons**  
+- 💻 Build **technical and open-source projects**  
+- 🤝 Collaborate with **IEEE branches and tech communities**  
+- 🌐 Participate in **IEEE initiatives**  
 
 ---
 
 ## 🧭 Get Involved
 
-Whether you’re a **student, mentor, or enthusiast**, you’re welcome here!  
-Join us, learn, build, and make an impact.
+We welcome **students, mentors, and tech enthusiasts** to join and contribute.
 
 📧 Contact us: [studentbranchiee@gmail.com](mailto:studentbranchiee@gmail.com)  
 📸 Follow us on Instagram: [@ieee.emsi.marrakech](https://instagram.com/ieee.emsi.marrakech)  
-🌐 Learn more about IEEE: [https://www.ieee.org](https://www.ieee.org)
+💼 Connect on LinkedIn: [in/ieeestudentbranchemsimarrakech/](https://www.linkedin.com/in/ieeestudentbranchemsimarrakech/)  
+🌐 Visit our website: [ieee-sb-emsi-marrakesh.vercel.app)](https://ieee-sb-emsi-marrakesh.vercel.app/)  
+🌍 Learn more about IEEE: [https://www.ieee.org](https://www.ieee.org)  
 
 ---
 
-## 🌟 Acknowledgments
+## 🌟 Acknowledgment
 
-Special thanks to all **members, volunteers, and mentors** who keep the IEEE spirit alive at EMSI Marrakesh! 💙  
-Together, we **learn, build, and innovate** for a better tomorrow.
+Thanks to all **members, volunteers, and mentors** who contribute to the growth of IEEE at EMSI Marrakesh 💙
 
 ---
 
-> “Advancing Technology for Humanity” — *IEEE Motto*
+> ⚡ *Advancing Technology for Humanity* — **IEEE Motto**
